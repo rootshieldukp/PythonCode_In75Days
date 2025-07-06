@@ -63,3 +63,6 @@ Day Topic Key Concepts Packages
 53 Docker for Python Apps Dockerfile, image build docker
 54 Typing & PEP8 mypy, black mypy, black
 55–60 Final Project WebApp or ML mini project All used tools
+
+🔴 LEVEL 5: Preparation for Interview (Day 61–75)
+📚 Focus: Interview Question Answers Practices.
